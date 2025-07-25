@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou a Fran Mendes! 👋
 
-<!--
-**franmendes/franmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Analyst | Testes Manuais e Automatizados  
+🔎 Explorando frameworks de automação de testes
+🌱 Aprendendo e compartilhando conhecimento
 
-Here are some ideas to get you started:
+## 💼 Sobre mim
+Atuo com qualidade de software, garantindo entregas com foco na experiência do usuário e nos requisitos do negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- ✅ Playwright (Automação de Testes)
+- ✅ Testes Funcionais, Regressivos e Exploratório
+- ✅ Postman e Swagger para testes de API
+- ✅ DBeaver e SQL
+
+## 📫 Vamos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/francielle-mendes)
