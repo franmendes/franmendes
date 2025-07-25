@@ -1,4 +1,4 @@
-# Olá, eu sou a Fran Mendes! 👋
+# Olá, sou a Francielle! 👋
 
 🎯 QA Analyst | Testes Manuais e Automatizados  
 🔎 Explorando frameworks de automação de testes
@@ -9,6 +9,7 @@ Atuo com qualidade de software, garantindo entregas com foco na experiência do 
 
 ## 🚀 Tecnologias
 - ✅ Playwright (Automação de Testes)
+- ✅ Robot (Automação de Testes)
 - ✅ Testes Funcionais, Regressivos e Exploratório
 - ✅ Postman e Swagger para testes de API
 - ✅ DBeaver e SQL
