@@ -2,6 +2,7 @@
 
 🎯 QA Analyst | Testes Manuais e Automatizados  
 🔎 Explorando frameworks de automação de testes
+
 🌱 Aprendendo e compartilhando conhecimento
 
 ## 💼 Sobre mim
